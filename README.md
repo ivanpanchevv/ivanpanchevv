@@ -4,8 +4,6 @@ Applied Computer Science student at Karel de Grote University of Applied Science
 in Antwerp, heading into my final year. Most of my time goes into Java and Spring,
 with a growing amount in Swift and embedded C.
 
-I like problems where the constraints are real — a game loop that has to fit in
-32 KB of flash, or a schema that has to survive the next feature.
 
 ### Projects
 
